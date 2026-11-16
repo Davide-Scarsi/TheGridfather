@@ -10,7 +10,7 @@ play with, and the code ready to copy into your project.
 
 - Each technique shows what it does before it shows how: a live preview, not a screenshot
 - Short explanations in plain words, one idea at a time
-- Chapters that go from the basics to the newest CSS: layout with Grid and Flexbox,
+- More than 230 techniques in chapters that go from the basics to the newest CSS: layout with Grid and Flexbox,
   fluid typography, colors and themes, animations, selectors, forms and accessibility,
   visual effects, components without JavaScript
 
@@ -21,6 +21,12 @@ play with, and the code ready to copy into your project.
   fallback when it is not
 - Search across all techniques by name, property or problem ("center a div",
   "cards same height", "dark mode")
+
+## Use it with Claude
+
+The Gridfather is also an MCP server. Click **Collega a Claude** in the app to link it to
+Claude Desktop or Claude Code: Claude can then search the techniques and read their code
+and fallbacks while it writes CSS for you.
 
 ## Install
 
