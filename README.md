@@ -9,6 +9,7 @@ play with, and the code ready to copy into your project.
 ## Learn by seeing
 
 - Each technique shows what it does before it shows how: a live preview, not a screenshot
+- Every demo has controls made for its technique (sizes, colors, switches, light and dark, reduced motion)
 - Short explanations in plain words, one idea at a time
 - More than 230 techniques in chapters that go from the basics to the newest CSS: layout with Grid and Flexbox,
   fluid typography, colors and themes, animations, selectors, forms and accessibility,
@@ -16,7 +17,7 @@ play with, and the code ready to copy into your project.
 
 ## Code ready to copy
 
-- One click copies the CSS (and the HTML when it needs some)
+- One click copies the CSS (and the HTML when it needs some), in English, and it follows the demo's controls: you copy what you see
 - Every snippet says whether it is safe to use today in all browsers, and gives a
   fallback when it is not
 - Search across all techniques by name, property or problem ("center a div",
@@ -25,8 +26,9 @@ play with, and the code ready to copy into your project.
 ## Use it with Claude
 
 The Gridfather is also an MCP server. Click **Collega a Claude** in the app to link it to
-Claude Desktop or Claude Code: Claude can then search the techniques and read their code
-and fallbacks while it writes CSS for you.
+Claude Desktop or Claude Code. From then on Claude checks the techniques on its own whenever
+it writes CSS, in any project and without being asked: it searches in English or Italian,
+then builds on the card's code and its fallbacks instead of writing from memory.
 
 ## Install
 
